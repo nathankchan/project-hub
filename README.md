@@ -4,7 +4,7 @@ Use this repository to find information about my code projects on GitHub.
 
 ## Under development
 
-### [covid-19-survey-analysis](https://github.com/nathankchan/covid-19-survey-analysis) 
+### *[covid-19-survey-analysis](https://github.com/nathankchan/covid-19-survey-analysis)*
 
 **Objective**: To characterize behavioural patterns in population-level self-reported survey data collected during the first waves of the COVID-19 pandemic. 
 
@@ -18,7 +18,7 @@ Use this repository to find information about my code projects on GitHub.
 3. Create markdown report for reproducible analysis.
 4. Finish documentation for github.
 
-### [explainers](https://github.com/nathankchan/explainers)
+### *[explainers](https://github.com/nathankchan/explainers)*
 
 **Objective**: To provide educational resources regarding quantitative analysis and related topics.
 
@@ -31,7 +31,7 @@ Use this repository to find information about my code projects on GitHub.
 
 ## Completed
 
-### [shopify-ds-intern-challenge](https://github.com/nathankchan/shopify-ds-intern-challenge)
+### *[shopify-ds-intern-challenge](https://github.com/nathankchan/shopify-ds-intern-challenge)*
 
 **Objective**: To characterize sales in a database and identify appropriate measures of central tendency.
 
@@ -41,7 +41,7 @@ Use this repository to find information about my code projects on GitHub.
 1. [Analysis report](https://nathankchan.github.io/shopify-ds-intern-challenge/Analysis.html)
 2. [Histogram-density plot viewer](https://nathankchan.shinyapps.io/Histogram-Density_Plot_Viewer/)
 
-### [niviz-rater](https://github.com/nathankchan/niviz-rater)
+### *[niviz-rater](https://github.com/nathankchan/niviz-rater)*
 
 **Objective**: To implement a YAML validator for a brain imaging visualization and quality control tool
 
@@ -49,7 +49,7 @@ Use this repository to find information about my code projects on GitHub.
 
 ## Planned
 
-### ADNI analysis
+### *ADNI analysis*
 
 **Objective**: To analyze neuropsychiatric symptoms and neurodegenerative patterns among participants from Alzheimer's Disease Neuroimaging Initiative.
 
