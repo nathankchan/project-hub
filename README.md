@@ -12,7 +12,7 @@ Use this repository to find information about my code projects on GitHub.
 
 **Deliverables**:
 1. [Visualizations by year](https://nathankchan.github.io/ontario-electricity-demand-viz/)
-2. [2x2 visualizations](https://nathankchan.github.io/ontario-electricity-demand-viz/)å
+2. [2x2 visualizations](https://nathankchan.github.io/ontario-electricity-demand-viz/)
 
 ### *[shopify-ds-intern-challenge](https://github.com/nathankchan/shopify-ds-intern-challenge)*
 
