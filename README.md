@@ -2,6 +2,34 @@
 
 Use this repository to find information about my code projects on GitHub.
 
+## Completed
+
+### *[ontario-electricity-demand-viz](https://github.com/nathankchan/ontario-electricity-demand-viz)*
+
+**Objective**: To visualize time series data through interactive 3D visualizations
+
+**Keywords**: surface plot, interactive visualization, plotly, electricity, market demand
+
+**Deliverables**:
+1. [Visualizations by year](https://nathankchan.github.io/ontario-electricity-demand-viz/)
+2. [2x2 visualizations](https://nathankchan.github.io/ontario-electricity-demand-viz/)å
+
+### *[shopify-ds-intern-challenge](https://github.com/nathankchan/shopify-ds-intern-challenge)*
+
+**Objective**: To characterize sales in a database and identify appropriate measures of central tendency.
+
+**Keywords**: sales, average, outliers, arithmetic mean, median, mode, harmonic mean, geometric mean, interactive visualization and application
+
+**Deliverables**:
+1. [Analysis report](https://nathankchan.github.io/shopify-ds-intern-challenge/Analysis.html)
+2. [Histogram-density plot viewer](https://nathankchan.shinyapps.io/Histogram-Density_Plot_Viewer/)
+
+### *[niviz-rater](https://github.com/nathankchan/niviz-rater)*
+
+**Objective**: To implement a YAML validator for a brain imaging visualization and quality control tool
+
+**Keywords**: Python, metadata, collaborative hackathon project
+
 ## Under development
 
 ### *[covid-19-survey-analysis](https://github.com/nathankchan/covid-19-survey-analysis)*
@@ -29,24 +57,6 @@ Use this repository to find information about my code projects on GitHub.
 **To-do**:
 1. Finish LaTeX report on n-nacci constants.
 
-## Completed
-
-### *[shopify-ds-intern-challenge](https://github.com/nathankchan/shopify-ds-intern-challenge)*
-
-**Objective**: To characterize sales in a database and identify appropriate measures of central tendency.
-
-**Keywords**: sales, average, outliers, arithmetic mean, median, mode, harmonic mean, geometric mean, interactive visualization and application
-
-**Deliverables**:
-1. [Analysis report](https://nathankchan.github.io/shopify-ds-intern-challenge/Analysis.html)
-2. [Histogram-density plot viewer](https://nathankchan.shinyapps.io/Histogram-Density_Plot_Viewer/)
-
-### *[niviz-rater](https://github.com/nathankchan/niviz-rater)*
-
-**Objective**: To implement a YAML validator for a brain imaging visualization and quality control tool
-
-**Keywords**: Python, metadata, collaborative hackathon project
-
 ## Planned
 
 ### *ADNI analysis*
@@ -56,5 +66,3 @@ Use this repository to find information about my code projects on GitHub.
 **Keywords**: R, Python, bash, neuroimaging, clinical trial, case-control matching, coarsened exact matching, mixed data, stratified analysis, linear mixed models, CMH statistics
 
 **Status**: Project uses confidential patient data; need to think about ways to copy data for the purposes of code demonstration...
-
-
