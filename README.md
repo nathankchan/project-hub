@@ -46,7 +46,7 @@ This **Project Hub** provides an overview of my code projects on GitHub.
 
 **Deliverables**:
 1. [Repository](https://github.com/nathankchan/covid-19-survey-analysis)
-2. [Reports]
+2. Reports
     * [Introduction](https://nathankchan.github.io/covid-19-survey-analysis/Analysis_part1.html)
     * [Data Extraction & Processing](https://nathankchan.github.io/covid-19-survey-analysis/Analysis_part2.html) 
 
