@@ -11,8 +11,9 @@ Use this repository to find information about my code projects on GitHub.
 **Keywords**: surface plot, interactive visualization, plotly, electricity, market demand
 
 **Deliverables**:
-1. [Visualizations by year](https://nathankchan.github.io/ontario-electricity-demand-viz/)
-2. [2x2 visualizations](https://nathankchan.github.io/ontario-electricity-demand-viz/)
+1. [Online dashboard for custom analysis](https://nathankchan.shinyapps.io/ontario-electricity-demand-viz/)
+2. [Visualizations by year](https://nathankchan.github.io/ontario-electricity-demand-viz/)
+3. [2x2 visualizations](https://nathankchan.github.io/ontario-electricity-demand-viz/)
 
 ### *[shopify-ds-intern-challenge](https://github.com/nathankchan/shopify-ds-intern-challenge)*
 
