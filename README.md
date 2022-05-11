@@ -4,6 +4,8 @@
 
 This **Project Hub** provides an overview of my code projects on GitHub. 
 
+*Want to get in touch? Connect with me via [LinkedIn](https://www.linkedin.com/in/nathan-chan-115600140/) or [GitHub](https://github.com/nathankchan)!*
+
 ## Completed
 
 ### *[ontario-electricity-demand-viz](https://nathankchan.github.io/ontario-electricity-demand-viz/)*
