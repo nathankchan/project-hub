@@ -8,6 +8,16 @@ This **Project Hub** provides an overview of my code projects on GitHub.
 
 ## Completed
 
+### *[canadian-weather](https://nathankchan.github.io/canadian-weather/)*
+
+**Objective**: To explore trends in time series weather data from the largest city in each Canadian province
+
+**Keywords**: interactive visualization, analysis, time series
+
+**Deliverables**:
+1. [Repository](https://github.com/nathankchan/canadian-weather/)
+2. [Online dashboard for exploratory analysis](https://nathankchan.shinyapps.io/canadian-weather/)
+
 ### *[ontario-electricity-demand-viz](https://nathankchan.github.io/ontario-electricity-demand-viz/)*
 
 **Objective**: To visualize time series data through interactive 3D visualizations
